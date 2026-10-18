@@ -5,8 +5,9 @@
 package com.mycompany.registration;
 import java.util.Scanner;
 /**
- *
- * @author Student
+ * @author Student - Ditebogo
+ * Registration POE Part 2 - commit 3
+ * Added validation for user registration
  */
 public class Registration {
 
