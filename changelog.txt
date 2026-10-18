@@ -1,0 +1,4 @@
+changes:
+added username validation
+added password complexity check
+added phone number validation
