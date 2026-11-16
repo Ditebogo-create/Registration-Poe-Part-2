@@ -1,4 +1,4 @@
-# Registration - PROG5121 Part 3
+# Registration - PROG5121 Part 2
 
 ## Description
 This project is a Java console application for user registration, login and messaging. 
