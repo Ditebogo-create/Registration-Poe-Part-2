@@ -1,2 +1,2 @@
-Registration POE Part 2 - Java Project by ditebogo
+Registration POE Part 3 - Java Project by ditebogo
 
