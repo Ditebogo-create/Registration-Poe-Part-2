@@ -27,8 +27,8 @@ Messages are stored in JSON format.
 4. Follow the prompts to Register, Login and Send Messages
 
 ## Project Structure
-- src/main/java - Contains login.java and message.java
-- src/test/java - Contains loginIT.java, messageIT.java and MessageDebuggingExerciseIT.java
+- src/main/java - Contains registration.java , login.java and message.java
+- src/test/java - Contains loginIT.java, messageIT.java 
 
 ## Author
 [Your Name] - [Your Student Number]
