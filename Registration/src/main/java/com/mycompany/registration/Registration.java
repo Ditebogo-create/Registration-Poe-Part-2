@@ -5,8 +5,8 @@
 package com.mycompany.registration;
 import java.util.Scanner;
 /**
- * @author Student - Ditebogo
- * Registration POE Part 2 - commit 3
+ * @author Student -Ditebogo
+ * Registration POE Part 2 - Commit
  * Added validation for user registration
  */
 public class Registration {
@@ -73,6 +73,8 @@ public class Registration {
             boolean loginStatus = login.loginUser(username,password, enteredUsername, enteredPassword);
             
          if(loginStatus){
+             boolean running = true;
+             while(running) {
                 
             System.out.println("Welcome to QuickChat");
             System.out.println("option 1) Send Messages");
@@ -131,7 +133,9 @@ public class Registration {
                         System.out.println("Invalid  option");
                         break;
                 }
-            }       else {
+            }     
+         }
+             else {
                 System.out.println("Login failed");
             }
         }else {
